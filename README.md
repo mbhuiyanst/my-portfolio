@@ -12,3 +12,6 @@ Welcome to my portfolio! I specialize in:
 This site is automatically deployed via GitHub Actions to GitHub Pages.
 
 Check the `.github/workflows/deploy.yml` for CI/CD pipeline configuration.
+
+
+This project demonstrates a **fully automated CI/CD deployment** to **GitHub Pages** using **GitHub Actions**
